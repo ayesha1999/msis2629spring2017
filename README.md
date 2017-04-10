@@ -1,1 +1,3 @@
-# msis2629spring2017
+# MSIS 2629 Dashboards, Scorecards & Data visualization
+
+This repository contains the material for all lab sessions.
